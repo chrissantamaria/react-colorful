@@ -136,7 +136,7 @@
     "README.md",
     "package.json"
   ],
-  "repository": "omgovich/react-colorful",
+  "repository": "chrissantamaria/react-colorful",
   "keywords": [
     "react",
     "color picker",
@@ -157,7 +157,7 @@
   "author": "Vlad Shilov <omgovich@ya.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/omgovich/react-colorful/issues"
+    "url": "https://github.com/chrissantamaria/react-colorful/issues"
   },
   "homepage": "https://omgovich.github.io/react-colorful",
   "peerDependencies": {
